@@ -1,0 +1,29 @@
+a:link {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: blueviolet;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: orangered;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.girl {
+  height: 80px;
+  width: 80px;
+}
+.post-img {
+  height: auto;
+  width: 600px;
+}
+.btu-img {
+  height: 120px;
+}
